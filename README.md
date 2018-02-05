@@ -9,9 +9,7 @@
 * [Python](#python)
 * [Java](#java)
 
-Solutions are coded using Java 8
 
-SQL solutions are coded using MySQL
 
 
 
